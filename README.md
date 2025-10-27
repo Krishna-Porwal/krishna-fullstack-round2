@@ -201,5 +201,4 @@ GitHub Repository: https://github.com/Krishna-Porwal/krishna-fullstack-round2
 
 
 
-Live Website: https://krishna-fullstack-round2.vercel.app/
 
