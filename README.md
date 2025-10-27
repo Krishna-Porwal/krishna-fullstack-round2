@@ -121,7 +121,7 @@ The website reflects an **industrial, clean, and trustworthy** B2B tone — desi
 | **Deployment** | Vercel |
 | **Version Control** | Git & GitHub |
 | **Package Manager** | npm |
-| **Icons & Components** | Lucide-react / shadcn-ui (if used) |
+| **Icons & Components** | Lucide-react / shadcn-ui |
 
 ---
 
